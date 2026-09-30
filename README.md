@@ -1,1 +1,4 @@
-"Joshua Hinds" 
+"Joshua Hinds"
+
+hindsj@oregonstate.edu
+
